@@ -63,12 +63,12 @@ This box is called an Inception module. Let’s take a closer look at what it’
 now this will take about 1.30 hr if u don’t have gpu in ur machine like me else 30 minutes approx.
 
 4. To classify any image :
-</p>
+
 This box is called an Inception module. Let’s take a closer look at what it’s made of
 <p align="center">
   <img src="https://datasciencebasicsblog.files.wordpress.com/2017/12/b.png" width="600"/>
   
-</p>
+
 *subdirectories in genders folder are used as classes so for diff classification use data of that category and make folder on basis of that.
 
 Reference:
